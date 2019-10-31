@@ -21,11 +21,16 @@ export default class TimelineEntry {
   label:string;
 
   @Column()
-  when:Date | Moment;
+  when:Date;
 
-  @Column()
+  @Column("timestamp", {
+    default: () => "CURRENT_TIMESTAMP"
+  })
   createdOn?:Date;
 
-  @Column()
+  @Column("timestamp", {
+    default: () => "CURRENT_TIMESTAMP",
+    onUpdate: "CURRENT_TIMESTAMP"
+  })
   updatedOn?:Date;
 }
