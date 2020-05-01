@@ -8,7 +8,7 @@ interface IEndpoint<IRequest, IResponse> {
   IResponse:IResponse;
 }
 
-interface PaginationContext {
+interface IPaginationContext {
   page:number;
   limit:number;
 }
@@ -17,7 +17,7 @@ interface IEntity {
   id?:number;
 }
 
-interface Credentials {
+interface ICredentials {
   username:string;
   password:string;
 }
