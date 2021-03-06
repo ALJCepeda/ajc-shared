@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
+  "typings": "src/index.ts",
   "scripts": {
+    "start": "tsc -w",
     "build": "tsc --declaration",
     "prepare": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"

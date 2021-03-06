@@ -4,6 +4,7 @@
     "target": "es2020",
     "sourceMap": true,
     "checkJs": false,
+    "declaration": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "esModuleInterop": true,
