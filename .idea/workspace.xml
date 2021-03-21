@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83406fae-28ba-47ae-be92-b4f84a3c5a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/timeline.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/app.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/timeline.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/guards.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/guards.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/TimelineEntry.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +64,8 @@
       <workItem from="1604819488917" duration="37000" />
       <workItem from="1604978612597" duration="586000" />
       <workItem from="1613156520999" duration="9481000" />
+      <workItem from="1615703393358" duration="628000" />
+      <workItem from="1615734703403" duration="593000" />
     </task>
     <servers />
   </component>
